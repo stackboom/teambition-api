@@ -5,7 +5,7 @@ Teambition OpenAPI library for laravel
 - [x] Basic Client
 - [x] Laravel Support
 - [ ] Laravel OAuth2 Support
-- [ ] 
+- [ ] Request / Response Define
 
 ## Installation
 
